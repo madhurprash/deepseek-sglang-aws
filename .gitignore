@@ -1,0 +1,11 @@
+# Ignore all files
+/*
+
+# Except the Jupyter notebook(s)
+!*.ipynb
+
+# Don't ignore the .gitignore file
+!.gitignore
+!README.md
+!pyproject.toml
+!uv.lock

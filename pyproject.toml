@@ -1,0 +1,13 @@
+[project]
+name = "sglang_deepseek_deployment"
+version = "0.0.1"
+description = "Launch SGLang server with DeepSeek-R1-Distilled models and run inference"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32.3",
+    "sglang[all]>=0.4.3",
+    "transformers>=4.49.0",
+]
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
