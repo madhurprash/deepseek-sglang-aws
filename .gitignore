@@ -2,7 +2,7 @@
 /*
 
 # Except the Jupyter notebook(s)
-!*.ipynb
+!*.py
 
 # Don't ignore the .gitignore file
 !.gitignore
