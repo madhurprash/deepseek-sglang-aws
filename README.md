@@ -13,8 +13,8 @@ Follow the steps below to run this sample and deploy distilled deepseek models u
 1. Create and activate a python3.12 environment:
 
     ```bash
-    uv venv .fmbench_python312 --python 3.12
-    source .fmbench_python312/bin/activate
+    uv venv .sglang_deepseek --python 3.12
+    source .sglang_deepseek/bin/activate
     ```
 
 1. Install all the requirements to serve the model:
